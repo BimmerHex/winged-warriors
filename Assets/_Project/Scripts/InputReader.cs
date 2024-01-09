@@ -7,8 +7,8 @@ namespace VGS
     public class InputReader : MonoBehaviour
     {
         // NOTE: Makesure to set the Player Input to C# events
-        PlayerInput playerInput;
-        InputAction moveAction;
+        private PlayerInput playerInput;
+        private InputAction moveAction;
 
         public Vector2 Move => moveAction.ReadValue<Vector2>();
 

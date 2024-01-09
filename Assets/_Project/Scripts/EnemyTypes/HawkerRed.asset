@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1f0794a997cb9f408c3a2b1a123ef7b, type: 3}
+  m_Name: HawkerRed
+  m_EditorClassIdentifier: 
+  enemyPrefab: {fileID: 4820499314107045596, guid: dc2e3eb599a8dd14d9476e5ec1bba036, type: 3}
+  weaponPrefab: {fileID: 0}
+  speed: 2
